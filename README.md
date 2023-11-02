@@ -18,7 +18,7 @@
 
 ## How to reach me
 
-   <a href="https://www.linkedin.com/in/csaba-ferenc-guti-202b19152" target="_blank">
+   <a href="https://www.linkedin.com/in/csaba-ferenc-guti-202b19152">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 
