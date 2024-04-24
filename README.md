@@ -1,4 +1,6 @@
 # Hi, I’m @vit-byro
+## My favourite project at the moment
+<a href="https://github.com/orgs/COW-Exchange/repositories" target="_blank">Cow Exchange</a>
 ## Full stack developer
 <p>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ReactJs" height="50"/>
